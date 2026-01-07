@@ -129,6 +129,8 @@ This project demonstrates that while **AI usage and active coding time significa
 
 ---
 
+I am open to collaborate on data analysi, statistical analysis and visualization projects. You can reach me via email {faleyetaiwo1999@gmail.com}
+
 ## 👤 Author
 **Faleye Taiwo Elijah**
 
