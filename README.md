@@ -1,5 +1,6 @@
 # AI Developer Performance Analysis (Excel-Based Project)
 
+![Image](https://github.com/user-attachments/assets/e4e11bd8-d748-4be9-9b67-36f487d54cc9)
 ## 📌 Project Overview
 This project investigates the performance of AI developers using **Microsoft Excel** as the primary analytical tool.  
 The study applies **correlation analysis, simple regression, and multiple linear regression** to examine how work habits and human factors influence developer productivity and performance outcomes.
